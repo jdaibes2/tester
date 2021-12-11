@@ -60,7 +60,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61b1dc0570f6ce031c667944",
+    "_id": "61b4f4addc61b50a10b4d373",
     "_parentId": "61b1cb5a70f6ce031c667933",
     "_type": "block",
     "_assessment": {
@@ -84,7 +84,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61b1dd3670f6ce031c667947",
+    "_id": "61b1dc0570f6ce031c667944",
     "_parentId": "61b1cb5a70f6ce031c667933",
     "_type": "block",
     "_assessment": {
@@ -108,7 +108,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61b1df7070f6ce031c667950",
+    "_id": "61b1dd3670f6ce031c667947",
     "_parentId": "61b1cb5a70f6ce031c667933",
     "_type": "block",
     "_assessment": {
@@ -132,7 +132,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61b3a230e28cd82a64ee3684",
+    "_id": "61b4f677dc61b50a10b4d37c",
     "_parentId": "61b1cb5a70f6ce031c667933",
     "_type": "block",
     "_assessment": {
@@ -156,7 +156,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61b3aa1f16482c0a406be05e",
+    "_id": "61b1df7070f6ce031c667950",
     "_parentId": "61b1cb5a70f6ce031c667933",
     "_type": "block",
     "_assessment": {
@@ -180,7 +180,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61b3aa6b16482c0a406be061",
+    "_id": "61b3a230e28cd82a64ee3684",
     "_parentId": "61b1cb5a70f6ce031c667933",
     "_type": "block",
     "_assessment": {
@@ -204,7 +204,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61b3aaa416482c0a406be064",
+    "_id": "61b3aa1f16482c0a406be05e",
     "_parentId": "61b1cb5a70f6ce031c667933",
     "_type": "block",
     "_assessment": {
@@ -228,7 +228,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61b3aad816482c0a406be067",
+    "_id": "61b3aa6b16482c0a406be061",
     "_parentId": "61b1cb5a70f6ce031c667933",
     "_type": "block",
     "_assessment": {
@@ -252,7 +252,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61b3aaf316482c0a406be06a",
+    "_id": "61b3aaa416482c0a406be064",
     "_parentId": "61b1cb5a70f6ce031c667933",
     "_type": "block",
     "_assessment": {
@@ -276,7 +276,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61b3ab1916482c0a406be06d",
+    "_id": "61b3aad816482c0a406be067",
     "_parentId": "61b1cb5a70f6ce031c667933",
     "_type": "block",
     "_assessment": {
@@ -293,6 +293,54 @@
     "body": "",
     "_classes": "",
     "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61b3aaf316482c0a406be06a",
+    "_parentId": "61b1cb5a70f6ce031c667933",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61b3ab1916482c0a406be06d",
+    "_parentId": "61b1cb5a70f6ce031c667933",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 15,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,

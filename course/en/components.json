@@ -11,7 +11,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">Rima </span></strong></span>et <span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">Mira</span></strong></span> sont deux enseignantes qui enseignent la même classe dans deux écoles différentes.</p><p>Pour la même unité <strong><span style=\"color:#800080\">« L’anniversaire de Jad »</span></strong> dans leur manuel « Le voyage des mots », elles sont conscientes qu’il s’agit comme point d’arrivée de : « Ecrire un carton d’invitation ». Mais, chacune d’elles l’a abordée à sa façon.</p>",
+    "body": "<p><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">Rima </span></strong></span>et <span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">Mira</span></strong></span> sont deux enseignantes qui enseignent la même classe dans deux écoles différentes.</p><p>Pour la même unité <strong><span style=\"color:#800080\">«L’anniversaire de Jad»</span></strong> dans leur manuel « Le voyage des mots », elles sont conscientes qu’il s’agit comme point d’arrivée de : « Ecrire un carton d’invitation ». Mais, chacune d’elles l’a abordée à sa façon.</p>",
     "_id": "61b1d90370f6ce031c667937",
     "_parentId": "61b1cb5a70f6ce031c667934",
     "_type": "component",
@@ -118,7 +118,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Voyons la vidéo !",
+    "instruction": "Voyons la première vidéo !",
     "_media": {
       "mp4": "course/en/assets/f8e5ee3f957cc4cea21ddb662a5fe530bb4da554.mp4",
       "ogv": "",
@@ -163,7 +163,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p><strong><span style=\"color:#800080\">❚&nbsp;</span>Après avoir vu la vidéo&nbsp;</strong><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">\"Le scénario de Rima\"</span></strong></span><strong>, Sélectionnez les cases convenables:</strong></p>",
+    "body": "",
     "_id": "61b1dc0f70f6ce031c667945",
     "_parentId": "61b1dc0570f6ce031c667944",
     "_type": "component",
@@ -177,7 +177,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "",
+    "instruction": "Cochez la (es) case (s) convenable (s):",
     "_items": [
       {
         "text": "Rima attend la fin de l’unité pour annoncer le produit final attendu des apprenants.    ",
@@ -281,7 +281,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Voyons la vidéo !",
+    "instruction": "Voyons maintenant la deuxième vidéo !",
     "_media": {
       "mp4": "course/en/assets/88acbe88cbc06a6c27153ccb37b40703637a2bd3.mp4",
       "ogv": "",
@@ -326,7 +326,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p><strong><span style=\"color:#800080\">❚&nbsp;</span>Après avoir vu la vidéo&nbsp;</strong><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">\"Le scénario de Mira\"</span></strong></span><strong>, Sélectionnez les cases convenables:</strong></p>",
+    "body": "",
     "_id": "61b1df7070f6ce031c667951",
     "_parentId": "61b1df7070f6ce031c667950",
     "_type": "component",
@@ -340,7 +340,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "",
+    "instruction": "Cochez la (es) case (s) convenable (s):",
     "_items": [
       {
         "text": "Mira contextualise l’unité et la rend plus proche du vécu des apprenants. ",
@@ -430,7 +430,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p><strong><span style=\"color:#800080\">❚&nbsp;</span>Après avoir vu <span style=\"color:#FFFFFF\"><span style=\"background-color:#800080\">les&nbsp;deux scénarios</span></span>,&nbsp;sélectionnez la bonne réponse</strong></p><p><strong>Lequel des deux scénarios met l’accent sur le pragmatique (la fonction de la langue) et non&nbsp; sur&nbsp; le&nbsp; linguistique (lexique, structure de phrases…)?</strong></p>",
+    "body": "<p><strong><span style=\"color:#800080\">❚&nbsp;</span>Après avoir vu <span style=\"color:#FFFFFF\"><span style=\"background-color:#800080\">les&nbsp;deux scénarios</span></span>,&nbsp;cochez la bonne réponse dans les phrases suivantes:</strong></p><p><strong>Lequel des deux scénarios met l’accent sur le pragmatique (la fonction de la langue) et non&nbsp; sur&nbsp; le&nbsp; linguistique (lexique, structure de phrases…)?</strong></p>",
     "_id": "61b3a238e28cd82a64ee3685",
     "_parentId": "61b3a230e28cd82a64ee3684",
     "_type": "component",
@@ -1151,7 +1151,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p><strong><span style=\"color:#800080\">❚&nbsp;</span>&nbsp;</strong><strong>&nbsp;Il est clair que <span style=\"color:#FFFFFF\"><span style=\"background-color:#800080\">Mira a suivi une formation sur l’approche actionnelle </span></span>et qu’elle tente d’exploiter ses acquis en classe.</strong></p><p><strong>Sélectionnez dans cette liste les items qui vous paraissent indispensables pour définir l’approche actionnelle pour l’enseignement des langues:</strong></p>",
+    "body": "<p><strong><span style=\"color:#800080\">❚&nbsp;</span>&nbsp;</strong><strong>&nbsp;Il est clair que,&nbsp;<span style=\"color:#FFFFFF\"><span style=\"background-color:#800080\">Mira a suivi une formation sur l’approche actionnelle</span> </span>et qu’elle tente d’exploiter ses acquis en classe.</strong></p><p><strong>Cochez dans la liste suivante, les items qui vous paraissent indispensables pour définir l’approche actionnelle, pour l’enseignement des langues:</strong></p>",
     "_id": "61b3af5716482c0a406be071",
     "_parentId": "61b3af5716482c0a406be070",
     "_type": "component",
@@ -1298,5 +1298,123 @@
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
     }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong><span style=\"color:#800080\">❚&nbsp;</span>Après avoir vu&nbsp;&nbsp;</strong><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">\"La présentation\"</span></strong></span><strong>, Choisissez les phrases qui expliquent comment Rima a procédé dans sa classe.</strong></p><p>&nbsp;</p>",
+    "_id": "61b4f4addc61b50a10b4d374",
+    "_parentId": "61b4f4addc61b50a10b4d373",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/15c51088fa03d0e885850074a613009e00e57b19.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong><span style=\"color:#800080\">❚&nbsp;</span>Après avoir vu&nbsp;&nbsp;</strong><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">\"La présentation\"</span></strong></span><strong>, Choisissez les phrases qui expliquent comment Mira a procédé dans sa classe.</strong></p><p>&nbsp;</p>",
+    "_id": "61b4f677dc61b50a10b4d37d",
+    "_parentId": "61b4f677dc61b50a10b4d37c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/732bc22cfb6ca8b9f717272cd1303f73f16feaf8.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
   }
 ]
