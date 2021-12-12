@@ -45,7 +45,7 @@
         "_resetType": "soft",
         "_canShowFeedback": false,
         "_canShowMarking": true,
-        "_canShowModelAnswer": false
+        "_canShowModelAnswer": true
       }
     },
     "_pageLevelProgress": {
