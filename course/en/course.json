@@ -1,12 +1,12 @@
 {
-  "title": "Scénarios de Rima et Mira",
-  "displayTitle": "Scénarios de Rima et Mira",
+  "title": "approche actionnelle ",
+  "displayTitle": "",
   "body": "",
   "subtitle": "",
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 15,
+  "_latestTrackingId": 16,
   "_buttons": {
     "_submit": {
       "buttonText": "Valider",
@@ -267,6 +267,9 @@
     "_showPageCompletion": true,
     "_isCompletionIndicatorEnabled": false,
     "_isShownInNavigationBar": true
+  },
+  "_spoor": {
+    "_messages": ""
   },
   "_boxMenu": {
     "_backgroundImage": {
