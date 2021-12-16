@@ -1,7 +1,7 @@
 [
   {
     "title": "Page1",
-    "displayTitle": "Les atouts de l’approche actionnelle pour l’enseignement des langues ",
+    "displayTitle": "Les atouts de l’approche actionnelle",
     "body": "<p><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">Classe EB1 – Unité du manuel scolaire «L’anniversaire de Jad»</span></strong></span></p>",
     "_classes": "",
     "subtitle": "",
@@ -28,7 +28,7 @@
     "_onScreen": {
       "_isEnabled": true,
       "_classes": "fade-in-bottom",
-      "_percentInviewVertical": 10
+      "_percentInviewVertical": 1
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
