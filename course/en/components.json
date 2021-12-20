@@ -177,7 +177,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Cochez la ou les cases convenables:",
+    "instruction": "Choisissez les phrases qui expliquent comment Rima a procédé dans sa classe. Cochez La ou le(s) case(s) convenable(s).",
     "_items": [
       {
         "text": "Rima attend la fin de l’unité pour annoncer le produit final attendu des apprenants.    ",
@@ -340,7 +340,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Cochez la ou les cases convenables:",
+    "instruction": "Choisissez les phrases qui expliquent comment Mira a procédé dans sa classe. Cochez La ou le(s) case(s) convenable(s).",
     "_items": [
       {
         "text": "Mira contextualise l’unité et la rend plus proche du vécu des apprenants. ",
