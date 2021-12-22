@@ -36,9 +36,15 @@
   "_requireCompletionOf": -1,
   "_lockType": "",
   "_id": "course",
-  "_start": {
-    "_isEnabled": false,
-    "_startIds": [],
+   "_start": {
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "61b1cb5a70f6ce031c667932",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
     "_force": false,
     "_isMenuDisabled": false
   },
